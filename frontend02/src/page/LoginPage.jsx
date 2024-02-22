@@ -67,7 +67,7 @@ function Login() {
     <div className={styles.wrapper}>
       <form onSubmit={handleSubmit}>
         <div className={styles.logo}>
-          <img src="src/images/vhlogo.png" alt="Logo" className={styles.logo} />
+          <img src="./src/images/vhlogo.png" alt="Logo" className={styles.logo} />
         </div>
         <h1>Login</h1>
         <div className={styles.inputbox}>
